@@ -1,10 +1,8 @@
 ## Required Softwares to Install after Installtion of OS
 
 
-Make a page for these information in github
 
-
-###WORK:
+### WORK:
 
     Gromacs & Amber, Plumed
 
@@ -14,7 +12,7 @@ Make a page for these information in github
     Gnuplot, Xmgrace
 
 
-###CODING:
+### CODING:
 
     g++ libralies & gfortran lib & LAPACK libraries
 
@@ -25,14 +23,14 @@ Make a page for these information in github
     TCL libraries
 
 
-###Fun:
+### Fun:
 
     Mutt ---> Activate all scripts
 
     Media ---> vlc player
 
 
-###System Tools:
+### System Tools:
 
     shc , pdftk, tree,
 
