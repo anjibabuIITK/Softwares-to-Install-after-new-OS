@@ -2,11 +2,11 @@
 
 
 
-### WORK:
+### Scientific:
 
     Gromacs & Amber, Plumed
 
-    VMD ,Chimera, Pymol, molden, Gaussian
+    VMD ,Chimera, Pymol, molden, Gaussian ,Molden
 
     mendely, teamviewer
     Gnuplot, Xmgrace
@@ -32,7 +32,7 @@
 
 ### System Tools:
 
-    shc , pdftk, tree,
+    shc , pdftk, tree, gv, gnewview
 
 
     Trash-Cli ---> Command line interface for trashcan on linux
