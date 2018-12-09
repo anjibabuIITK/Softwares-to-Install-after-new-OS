@@ -1,5 +1,84 @@
 ## Required Softwares to Install after Installtion of OS
 
+
+Make a page for these information in github
+
+
+###WORK:
+
+    Gromacs & Amber, Plumed
+
+    VMD ,Chimera, Pymol, molden, Gaussian
+
+    mendely, teamviewer
+    Gnuplot, Xmgrace
+
+
+###CODING:
+
+    g++ libralies & gfortran lib & LAPACK libraries
+
+    Anakonda package ----> Python + MDAnalysis
+
+    sublime text3
+
+    TCL libraries
+
+
+###Fun:
+
+    Mutt ---> Activate all scripts
+
+    Media ---> vlc player
+
+
+###System Tools:
+
+    shc , pdftk, tree,
+
+
+    Trash-Cli ---> Command line interface for trashcan on linux
+
+    How to use trash-cli
+
+    Git, DropBox clint
+
+    WPS office
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 You can use the [editor on GitHub](https://github.com/anjibabuIITK/Softwares-to-Install-after-new-OS/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
