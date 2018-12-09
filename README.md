@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Required Softwares to Install after Installtion of OS
 
 You can use the [editor on GitHub](https://github.com/anjibabuIITK/Softwares-to-Install-after-new-OS/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
