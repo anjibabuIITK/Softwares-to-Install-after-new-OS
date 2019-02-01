@@ -32,7 +32,7 @@
 
 ### System Tools:
 
-    shc , pdftk, tree, gv, gnewview
+    shc , pdftk, tree, gv, gnewview, gimp
 
 
     Trash-Cli ---> Command line interface for trashcan on linux
